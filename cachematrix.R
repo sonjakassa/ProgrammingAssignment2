@@ -1,4 +1,4 @@
-## The makeCacheMatrix function caches the inerse of a special matrix and 
+## The makeCacheMatrix function caches the inverse of a special matrix and 
 ##the cacheSolve function computes the inverse of the special matrix.
 
 
